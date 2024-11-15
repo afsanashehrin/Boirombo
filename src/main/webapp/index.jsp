@@ -49,7 +49,6 @@
 </head>
 <body style="background-color: #f5f3eb;">
 
-
 	<%
 	User u = (User) session.getAttribute("user");
 	%>
